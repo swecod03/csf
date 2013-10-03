@@ -26,15 +26,20 @@ print minus
 print "Value 2"
 print plus
 
-
 ###
 ### Problem 2
 ###
 
 print "Problem 2 solution follows:"
 
-# ... write your code and comments here (and remove this line)
-
+import hw1_test
+dan = hw1_test
+print dan.a
+print dan.b
+print dan.c
+print dan.d
+print dan.e
+print dan.f
 
 ###
 ### Problem 3
@@ -42,11 +47,13 @@ print "Problem 2 solution follows:"
 
 print "Problem 3 solution follows:"
 
-# ... write your code and comments here (and remove this line)
-
+print str ((dan.a and dan.b) or (not dan.c) and not (dan.d or dan.e or dan.f))
 
 ###
 ### Collaboration
 ###
 
 # ... List your collaborators here, as a comment (on a line starting with "#").
+
+# Worked along with ngungo16 to solve math.
+# Assisted ngungo16 and vancho06 with programming logic
