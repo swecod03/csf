@@ -57,3 +57,5 @@ print str ((dan.a and dan.b) or (not dan.c) and not (dan.d or dan.e or dan.f))
 
 # Worked along with ngungo16 to solve math.
 # Assisted ngungo16 and vancho06 with programming logic
+
+# 10/03/13 - added reflections to desc.
