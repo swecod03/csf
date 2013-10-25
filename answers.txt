@@ -19,15 +19,18 @@ Problem 1:
 
 Problem 2:
 
-...
+GC-content: 0.43029262963
 
 Problem 3:
 
-...
+By commenting out 'seq' and 'linenum' you effectively pull a Marty McFly and erase your variable's creation,
+therefore creating an error when the program tries to call on it.
+The same goes for commenting out 'gc_count'
 
 Problem 4:
 
-...
+GC-content: 0.43029262963
+AT-content: 0.568993851852
 
 Collaboration:
 
@@ -35,4 +38,6 @@ Collaboration:
 
 Reflection:
 
-...
+I puzzled over this all week. I have no idea why, as it is pretty simple (at least I hope it is and I'm not
+missing something). In all, the actual work I put into this outside of staring blankly at the instructions was
+about one hour to complete in all.
